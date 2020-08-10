@@ -25,3 +25,4 @@ Working from home! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.
 ![OpenVINO](https://img.shields.io/badge/-OpenVINO-000000?style=flat&logo=intel&logoColor=5AB3F0)
 ![JetsonNano](https://img.shields.io/badge/-Jetson%20Nano-000000?style=flat&logo=Nvidia&logoColor=137E08)
 ![Edge AI](https://img.shields.io/badge/-Edge%20AI-000000?style=flat&logo=Artificial&logoColor=137E08)
+![ROS](https://img.shields.io/badge/-ROS-000000?style=flat&logo=ros&logoColor=137E08)

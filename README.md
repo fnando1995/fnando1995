@@ -26,3 +26,10 @@ Working from home! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.
 ![JetsonNano](https://img.shields.io/badge/-Jetson%20Nano-000000?style=flat&logo=Nvidia&logoColor=137E08)
 ![Edge AI](https://img.shields.io/badge/-Edge%20AI-000000?style=flat&logo=Artificial&logoColor=137E08)
 ![ROS](https://img.shields.io/badge/-ROS-000000?style=flat&logo=ros&logoColor=137E08)
+
+
+<div><p>My profile overview: </p></div>
+
+![fnando1995's github stats](https://github-readme-stats.vercel.app/api?username=fnando1995&show_icons=true)
+<br />
+<br />

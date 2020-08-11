@@ -30,6 +30,10 @@ Working from home! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.
 
 <div><p>My profile overview: </p></div>
 
-![fnando1995's github stats](https://github-readme-stats.vercel.app/api?username=fnando1995&show_icons=true)
+<a href="https://github.com/fnando1995">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fnando1995&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnando1995&theme=buefy&layout=compact" />
+</a>
+
 <br />
 <br />

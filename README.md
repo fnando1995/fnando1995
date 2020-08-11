@@ -1,6 +1,6 @@
 ![Header](https://github.com/fnando1995/fnando1995/blob/master/logo.gif)
 
-Working from home! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<a href="https://www.linkedin.com/in/emmanuel-mor%C3%A1n-barreiro-733b7210a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Emmanuel%20Morán-blue?style=flat-square&logo=linkedin"></a> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 **Languages I have used**
 
@@ -37,3 +37,5 @@ Working from home! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.
 
 <br />
 <br />
+
+

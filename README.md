@@ -1,5 +1,3 @@
-![Header](https://github.com/fnando1995/fnando1995/blob/master/logo.gif)
-
 <a href="https://www.linkedin.com/in/emmanuel-mor%C3%A1n-barreiro-733b7210a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Emmanuel%20Morán-blue?style=flat-square&logo=linkedin"></a> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 **Languages I have used**
@@ -26,16 +24,5 @@
 ![JetsonNano](https://img.shields.io/badge/-Jetson%20Nano-000000?style=flat&logo=Nvidia&logoColor=137E08)
 ![Edge AI](https://img.shields.io/badge/-Edge%20AI-000000?style=flat&logo=Artificial&logoColor=137E08)
 ![ROS](https://img.shields.io/badge/-ROS-000000?style=flat&logo=ros&logoColor=137E08)
-
-
-<div><p>My profile overview: </p></div>
-
-<a href="https://github.com/fnando1995">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fnando1995&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnando1995&theme=buefy&layout=compact" />
-</a>
-
-<br />
-<br />
 
 
